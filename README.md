@@ -6,21 +6,6 @@
     statictical method
 
 
-# 가상환경 생성하기
-conda create --name Lexile python=3.9
-# 가상환경 활성화하기
-conda activate Lexile
-# 가상환경 벗어나기
-conda deactivate
-
-
-1. data preparing
-2. data preprocessing
-3. build a model
-4. train the model
-5. test the model
-
-
 1. data preparing
     카글에서 가져옴
     https://www.kaggle.com/datasets/yuewang123/dataset-from-commonlit-website-with-full-text
